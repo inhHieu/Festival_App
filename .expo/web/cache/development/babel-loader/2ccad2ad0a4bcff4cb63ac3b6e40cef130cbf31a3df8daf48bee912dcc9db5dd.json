@@ -1,0 +1,1 @@
+{"ast":null,"code":"export var API_BASE_URL = \"http://localhost:8008/api\";","map":{"version":3,"names":["API_BASE_URL"],"sources":["D:/Learning/ReactNative/Festival/Api/BaseURL.js"],"sourcesContent":["export const API_BASE_URL = \"http://localhost:8008/api\";"],"mappings":"AAAA,OAAO,IAAMA,YAAY,GAAG,2BAA2B"},"metadata":{},"sourceType":"module","externalDependencies":[]}
